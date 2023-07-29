@@ -5,13 +5,13 @@ If you need any queries or want to hire me please inform me by email: [md.jewelm
 1.  Firstly clone this project : git clone https://github.com/itjewel/room-cleaning.git
 2.  run this command.
 
-javascript```
+```javascript
    npm install -g
 ```
 
 4.  rund the project.
 
-javascript```
+```javascript
  npm rund dev
 ```
 
