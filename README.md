@@ -12,7 +12,7 @@ If you need any queries or want to hire me please inform me by email: [md.jewelm
 4.  rund the project.
 
 ```javascript
- npm rund dev
+ npm run dev
 ```
 
 5. Demo: https://room-cleaning.vercel.app/
